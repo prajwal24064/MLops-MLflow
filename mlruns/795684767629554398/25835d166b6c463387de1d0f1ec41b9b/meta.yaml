@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/795684767629554398/25835d166b6c463387de1d0f1ec41b9b/artifacts
+end_time: 1754047853965
+entry_point_name: ''
+experiment_id: '795684767629554398'
+lifecycle_stage: active
+run_id: 25835d166b6c463387de1d0f1ec41b9b
+run_name: upset-ant-462
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754047852999
+status: 4
+tags: []
+user_id: Prajwal

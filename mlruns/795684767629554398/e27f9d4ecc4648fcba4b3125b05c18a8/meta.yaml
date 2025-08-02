@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/795684767629554398/e27f9d4ecc4648fcba4b3125b05c18a8/artifacts
+end_time: 1754047897444
+entry_point_name: ''
+experiment_id: '795684767629554398'
+lifecycle_stage: active
+run_id: e27f9d4ecc4648fcba4b3125b05c18a8
+run_name: stylish-whale-883
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754047896453
+status: 4
+tags: []
+user_id: Prajwal

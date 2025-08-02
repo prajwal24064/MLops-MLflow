@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/5914970304b44f2380733766d46a4ae6/artifacts
+end_time: 1754044779740
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5914970304b44f2380733766d46a4ae6
+run_name: polite-pug-431
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754044778818
+status: 3
+tags: []
+user_id: Prajwal

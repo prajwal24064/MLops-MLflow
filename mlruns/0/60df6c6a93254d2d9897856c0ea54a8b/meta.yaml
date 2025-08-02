@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/60df6c6a93254d2d9897856c0ea54a8b/artifacts
+deleted_time: 1754047901616
+end_time: 1754044698902
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 60df6c6a93254d2d9897856c0ea54a8b
+run_name: blushing-bass-226
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754044696920
+status: 4
+tags: []
+user_id: Prajwal
