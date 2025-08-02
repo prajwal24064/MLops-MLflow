@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Prajwal/Desktop/Projects/MLOps/MLops-MLflow/mlruns/755155827657190321/0bf3d0d4397443b59bdae5405fd6e740/artifacts
+end_time: 1754135393274
+entry_point_name: ''
+experiment_id: '755155827657190321'
+lifecycle_stage: active
+run_id: 0bf3d0d4397443b59bdae5405fd6e740
+run_name: merciful-croc-679
+run_uuid: 0bf3d0d4397443b59bdae5405fd6e740
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754135393168
+status: 3
+tags: []
+user_id: Prajwal

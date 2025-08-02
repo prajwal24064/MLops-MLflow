@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Prajwal/Desktop/Projects/MLOps/MLops-MLflow/mlruns/755155827657190321/e50feeabf3264cb190a46b9d3d4b21fe/artifacts
+end_time: 1754135393585
+entry_point_name: ''
+experiment_id: '755155827657190321'
+lifecycle_stage: active
+run_id: e50feeabf3264cb190a46b9d3d4b21fe
+run_name: gaudy-deer-217
+run_uuid: e50feeabf3264cb190a46b9d3d4b21fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754135393472
+status: 3
+tags: []
+user_id: Prajwal

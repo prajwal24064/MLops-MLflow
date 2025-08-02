@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Prajwal/Desktop/Projects/MLOps/MLops-MLflow/mlruns/755155827657190321/599566f1a1e94862bfd307858d7dbebd/artifacts
+end_time: 1754135392351
+entry_point_name: ''
+experiment_id: '755155827657190321'
+lifecycle_stage: active
+run_id: 599566f1a1e94862bfd307858d7dbebd
+run_name: nosy-skink-912
+run_uuid: 599566f1a1e94862bfd307858d7dbebd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754135392198
+status: 3
+tags: []
+user_id: Prajwal

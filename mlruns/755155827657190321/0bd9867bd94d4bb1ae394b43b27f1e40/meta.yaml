@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Prajwal/Desktop/Projects/MLOps/MLops-MLflow/mlruns/755155827657190321/0bd9867bd94d4bb1ae394b43b27f1e40/artifacts
+end_time: 1754135392625
+entry_point_name: ''
+experiment_id: '755155827657190321'
+lifecycle_stage: active
+run_id: 0bd9867bd94d4bb1ae394b43b27f1e40
+run_name: casual-wolf-768
+run_uuid: 0bd9867bd94d4bb1ae394b43b27f1e40
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754135392496
+status: 3
+tags: []
+user_id: Prajwal

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Prajwal/Desktop/Projects/MLOps/MLops-MLflow/mlruns/755155827657190321/d1f68e88795e44afb5bfc61d973608bf/artifacts
+end_time: 1754135393371
+entry_point_name: ''
+experiment_id: '755155827657190321'
+lifecycle_stage: active
+run_id: d1f68e88795e44afb5bfc61d973608bf
+run_name: stately-shad-358
+run_uuid: d1f68e88795e44afb5bfc61d973608bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754135393281
+status: 3
+tags: []
+user_id: Prajwal

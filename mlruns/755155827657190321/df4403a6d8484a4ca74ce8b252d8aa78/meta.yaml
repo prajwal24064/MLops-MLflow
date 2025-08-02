@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Prajwal/Desktop/Projects/MLOps/MLops-MLflow/mlruns/755155827657190321/df4403a6d8484a4ca74ce8b252d8aa78/artifacts
+end_time: 1754135393000
+entry_point_name: ''
+experiment_id: '755155827657190321'
+lifecycle_stage: active
+run_id: df4403a6d8484a4ca74ce8b252d8aa78
+run_name: secretive-lamb-741
+run_uuid: df4403a6d8484a4ca74ce8b252d8aa78
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754135392879
+status: 3
+tags: []
+user_id: Prajwal

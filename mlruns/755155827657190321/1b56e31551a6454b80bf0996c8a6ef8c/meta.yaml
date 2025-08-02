@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Prajwal/Desktop/Projects/MLOps/MLops-MLflow/mlruns/755155827657190321/1b56e31551a6454b80bf0996c8a6ef8c/artifacts
+end_time: 1754135392870
+entry_point_name: ''
+experiment_id: '755155827657190321'
+lifecycle_stage: active
+run_id: 1b56e31551a6454b80bf0996c8a6ef8c
+run_name: illustrious-cat-102
+run_uuid: 1b56e31551a6454b80bf0996c8a6ef8c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754135392759
+status: 3
+tags: []
+user_id: Prajwal
